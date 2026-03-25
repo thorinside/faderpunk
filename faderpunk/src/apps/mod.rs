@@ -20,5 +20,5 @@ register_apps!(
     19 => panner,
     20 => rnd_plus,
     22 => lfo_plus,
-    24 => tb3po,
+    23 => tb3po,
 );
